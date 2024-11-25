@@ -1,0 +1,6 @@
+python-telegram-bot
+python-telegram-bot[job-queue]
+redis
+pillow
+Python-IO
+asyncio

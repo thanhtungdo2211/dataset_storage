@@ -1,0 +1,9 @@
+sqlalchemy
+numpy
+opencv-python
+Pillow
+scikit-learn
+qdrant-client
+minio
+psycopg2-binary
+prefect
